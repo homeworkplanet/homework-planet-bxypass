@@ -15,7 +15,7 @@ Follow these steps to launch the bypass environment. No root or developer mode r
 
 ### Step 1: Access the Launchpad
 Open your browser and navigate to the deployment terminal:
-👉 **`applauncher.site`**
+👉 **[applauncher.site](https://applauncher.site)**
 
 ### Step 2: Initialize Custom Payload
 Once the interface loads, locate the control panel and click the **`+` (Plus)** icon to create a new routing.
